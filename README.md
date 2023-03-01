@@ -2,12 +2,9 @@
 
 ## Overview of Project
 
-The purpose of this study is to creat a website using HTML and CSS to present a table of UFO sightings. The table can be filtered and the background Javascript code will be responsible to generate the new table. The final website is shown in the next figure.
+The purpose of this study is to creat a website using HTML and CSS to present a table of UFO sightings. The table can be filtered and the background Javascript code is responsible to generate the new table. The final website is shown in the next figure.
 
 ![UFO sightings](Images/website_pic.PNG)
-
-
-
 
 
 ## Results:
