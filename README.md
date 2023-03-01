@@ -8,15 +8,15 @@ The purpose of this study is to creat a website using HTML and CSS to present a 
 
 
 ## Results:
-Results: Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
-There is a description of how to perform a search, with images. (4 pt)
+To use the website start by using the input box on left corner of the website. Put the country code name, state, city or a date to filter the data. For countries and states, use their alpha codes. A sample of the input parameter is given for San diego, California (ca) and United States (us).
+
+![filter_input_box](Images/filter_box.PNG)
+
+Here is an example of the filtered data for the state of Texas (tx).
+
+![filter_input_box](Images/filtered_website.PNG)
 
 
 ## Summary: 
-In a summary statement, describe one drawback of this new design and two recommendations for further development.
-
-The written analysis has the following:
-
-The summary addresses one drawback of this webpage (2 pt)
 One drawback of the website is that it does not show the distribution of sighting on a map. In addition user search options are not shown, country code names can help the user experience. 
 One improvment tha could greatly change the website experience is to add a map distribution of the results in the website. This way it can be seen which states or cities have more sightings than others. Another improvement is additional filters added to website for shape and duration.
