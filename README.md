@@ -18,6 +18,6 @@ Here is an example of the filtered data for the state of Texas (tx).
 
 
 ## Summary: 
-The website is fully functional and it is working as expected. The user can interact and update the table using the filter inputs on the website. The javascript code filters the table as expected and present the results to the user.
-One drawback of the website is that it does not show the distribution of sighting on a map. In addition user search options are not shown, country code names can help the user experience. 
-One improvment tha could greatly change the website experience is to add a map distribution of the results in the website. This way it can be seen which states or cities have more sightings than others. Another improvement is additional filters added to website for shape and duration.
+The website is fully functional and it is working as expected. The user can interact and update the table using the filter inputs on the website. The javascript code filters the table as expected and presents the results to the user.
+One drawback of the website is that it does not show the distribution of sightings on a map. In addition, user search options are not shown, country code names can help the user experience. 
+One improvement that could greatly change the website experience is to add a map distribution of the results on the website. This way it can be seen which states or cities have more sightings than others. Another improvement is additional filters added to the website for shape and duration.
