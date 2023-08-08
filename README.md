@@ -2,13 +2,13 @@
 
 ## Overview of Project
 
-The purpose of this study is to creat a website using HTML and CSS to present a table of UFO sightings. The table can be filtered and the background Javascript code is responsible to generate the new table. The final website is shown in the next figure.
+The purpose of this study is to create a website using HTML and CSS to present a table of UFO sightings. The table can be filtered and the background Javascript code is responsible for generating the new table. The final website is shown in the following figure.
 
 ![UFO sightings](Images/website_pic.PNG)
 
 
 ## Results:
-To use the website start by using the input box on left corner of the website. Put the country code name, state, city or a date to filter the data. For countries and states, use their alpha codes. A sample of the input parameter is given for San diego, California (ca) and United States (us).
+To use the website start by using the input box on the left corner of the website. Put the country code name, state, city, or date to filter the data. For countries and states, use their alpha codes. A sample of the input parameter is given for San Diego, California (ca), and United States (us).
 
 ![filter_input_box](Images/filter_box.PNG)
 
